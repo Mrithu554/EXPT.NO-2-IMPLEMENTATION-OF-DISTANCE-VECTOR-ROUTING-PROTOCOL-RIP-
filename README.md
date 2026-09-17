@@ -1,16 +1,20 @@
 # EXPT.NO-2-IMPLEMENTATION-OF-DISTANCE-VECTOR-ROUTING-PROTOCOL-RIP
 # AIM:
-
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
+
 # EQUIPMENTS REQUIRED:
+<img width="1280" height="916" alt="image" src="https://github.com/user-attachments/assets/f2032b69-cea8-4fda-804c-241a5676903a" />
 
 
 
 # IP ASSIGNMENT:
+<img width="1280" height="1220" alt="image" src="https://github.com/user-attachments/assets/fc17180c-a170-4595-ae1a-f634fe39f609" />
 
 
 
 # NETWORK DIAGRAM:
+<img width="1280" height="913" alt="image" src="https://github.com/user-attachments/assets/45a7f1ba-0269-467d-85bb-5508e31c942c" />
+
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -79,6 +83,14 @@ You can also check connectivity between the PCs on different networks to ensure 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
 # OUTPUT
+<img width="1280" height="961" alt="image" src="https://github.com/user-attachments/assets/3a6b500c-4771-44b6-b5e7-b5805f2c65c2" />
+<img width="1280" height="856" alt="image" src="https://github.com/user-attachments/assets/b3560f0a-d35e-4339-90df-6efc200ffa53" />
+<img width="1280" height="1067" alt="image" src="https://github.com/user-attachments/assets/0a8f1229-6923-4363-b39c-ac0e30f67fd0" />
+<img width="1280" height="937" alt="image" src="https://github.com/user-attachments/assets/be892d9c-ab3d-4249-9125-7a651936e2b2" />
+
+
+
+
 
 
 
